@@ -1,5 +1,5 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-### Register No: 212221240043
+### Register No: 212221240060
 
 
 
